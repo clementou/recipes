@@ -1,0 +1,193 @@
+{
+  "title": "Korean Bulgogi (Marinated Grilled Beef)",
+  "description": "A traditional Korean dish featuring thinly sliced marinated beef that's tender, sweet, and savory. Perfect served over rice or in lettuce wraps.",
+  "servings": {
+    "amount": 8,
+    "notes": "from 2 pounds meat"
+  },
+  "times": {
+    "prep": "20 minutes",
+    "cook": "15-20 minutes",
+    "total": "5-9 hours",
+    "marinate": "4-8 hours",
+    "notes": "including marination"
+  },
+  "ingredients": {
+    "For the Marinade": [
+      {
+        "item": "boneless sirloin, tenderloin or skirt steak",
+        "amount": 2,
+        "unit": "pounds",
+        "notes": "well-marbled"
+      },
+      {
+        "item": "garlic cloves",
+        "amount": 8,
+        "unit": "large cloves"
+      },
+      {
+        "item": "Asian or Bosc pear",
+        "amount": 2,
+        "unit": "cups",
+        "notes": "peeled and chopped, can substitute with apple"
+      },
+      {
+        "item": "onion",
+        "amount": 1.5,
+        "unit": "cups",
+        "notes": "finely chopped (about 2 medium onions)"
+      },
+      {
+        "item": "ginger",
+        "amount": 2,
+        "unit": "teaspoons",
+        "notes": "finely chopped"
+      },
+      {
+        "item": "scallions",
+        "amount": 2,
+        "unit": "whole",
+        "notes": "chopped"
+      },
+      {
+        "item": "soy sauce",
+        "amount": 4,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "roasted sesame oil",
+        "amount": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "brown sugar",
+        "amount": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "black pepper",
+        "amount": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "item": "sesame seeds",
+        "amount": 1,
+        "unit": "teaspoon",
+        "notes": "toasted"
+      }
+    ],
+    "For Serving": [
+      {
+        "item": "lettuce leaves",
+        "unit": "whole",
+        "notes": "green leaf, oak leaf or romaine, fluffy"
+      },
+      {
+        "item": "perilla leaves",
+        "unit": "whole",
+        "notes": "optional"
+      },
+      {
+        "item": "short-grain rice",
+        "unit": "servings",
+        "notes": "hot cooked"
+      },
+      {
+        "item": "sesame seeds",
+        "unit": "to taste",
+        "notes": "toasted, for garnish"
+      }
+    ]
+  },
+  "instructions": {
+    "Meat Preparation": [
+      {
+        "step": 1,
+        "text": "Slice meat into very thin strips (about 1/8-inch thick)",
+        "notes": "Tip: Partially freeze meat for 30 minutes to make slicing easier"
+      },
+      {
+        "step": 2,
+        "text": "Set aside while preparing marinade"
+      }
+    ],
+    "Marinade Preparation": [
+      {
+        "step": 1,
+        "text": "Grate pear (or apple) using a box grater or finely chop"
+      },
+      {
+        "step": 2,
+        "text": "Finely chop onions and scallions"
+      },
+      {
+        "step": 3,
+        "text": "Mince garlic and ginger"
+      },
+      {
+        "step": 4,
+        "text": "Mix all marinade ingredients in a large bowl"
+      },
+      {
+        "step": 5,
+        "text": "Add sliced meat and mix well to coat"
+      },
+      {
+        "step": 6,
+        "text": "Cover and refrigerate 4-8 hours"
+      }
+    ],
+    "Cooking": [
+      {
+        "step": 1,
+        "text": "Remove meat from refrigerator 30 minutes before cooking"
+      },
+      {
+        "step": 2,
+        "text": "Heat a large pan or wok over high heat"
+      },
+      {
+        "step": 3,
+        "text": "Cook meat in batches to avoid overcrowding"
+      },
+      {
+        "step": 4,
+        "text": "Each batch should take 2-3 minutes"
+      },
+      {
+        "step": 5,
+        "text": "Cook until meat is browned and edges are caramelized"
+      }
+    ],
+    "Serving": [
+      {
+        "step": 1,
+        "text": "Serve hot over rice"
+      },
+      {
+        "step": 2,
+        "text": "Alternatively, serve with lettuce leaves for wrapping"
+      },
+      {
+        "step": 3,
+        "text": "Garnish with additional sesame seeds"
+      },
+      {
+        "step": 4,
+        "text": "Provide perilla leaves if using"
+      }
+    ]
+  },
+  "notes": [
+    "Don't oil the pan - marinade and meat fat provide enough",
+    "Drain excess liquid between batches for better browning",
+    "Can be made ahead and reheated",
+    "Works well in lunch boxes or rice bowls"
+  ],
+  "storage": [
+    "Cooked bulgogi keeps 3-4 days refrigerated",
+    "Marinade can be made 1 day ahead",
+    "Can be frozen after cooking for up to 2 months",
+    "Reheat in pan or microwave until hot"
+  ]
+}

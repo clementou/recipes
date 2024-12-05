@@ -1,0 +1,124 @@
+{
+  "title": "Honey-Soy Glazed Salmon with Crispy Pork Belly",
+  "description": "A perfectly seared salmon with a sweet-savory glaze, topped with crispy pork belly bits and served over steamed white rice. The glaze creates a beautiful lacquer while the pork adds a rich, crispy texture contrast.",
+  "servings": {
+    "amount": 2
+  },
+  "times": {
+    "prep": "15 minutes",
+    "cook": "20 minutes",
+    "total": "35 minutes"
+  },
+  "ingredients": {
+    "Main Ingredients": [
+      {
+        "item": "salmon fillets",
+        "amount": 2,
+        "unit": "fillets",
+        "notes": "6 oz each"
+      },
+      {
+        "item": "pork belly",
+        "amount": 2,
+        "unit": "slices"
+      }
+    ],
+    "For the Glaze": [
+      {
+        "item": "soy sauce",
+        "amount": 3,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "honey",
+        "amount": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "sesame oil",
+        "amount": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "item": "garlic",
+        "amount": 2,
+        "unit": "cloves",
+        "notes": "minced"
+      },
+      {
+        "item": "fresh ginger",
+        "amount": 1,
+        "unit": "tablespoon",
+        "notes": "grated"
+      },
+      {
+        "item": "Beksul lemon vinegar",
+        "amount": 2,
+        "unit": "teaspoons"
+      },
+      {
+        "item": "black pepper",
+        "unit": "to taste",
+        "notes": "freshly ground"
+      }
+    ]
+  },
+  "instructions": {
+    "Glaze Preparation": [
+      {
+        "step": 1,
+        "text": "Mix all glaze ingredients in a small bowl"
+      }
+    ],
+    "Main Steps": [
+      {
+        "step": 1,
+        "text": "Cook pork belly until crispy, set aside"
+      },
+      {
+        "step": 2,
+        "text": "Pat salmon dry and bring to room temperature"
+      },
+      {
+        "step": 3,
+        "text": "Heat non-stick pan over medium-high heat"
+      },
+      {
+        "step": 4,
+        "text": "Cook salmon skin-side up for 4 minutes"
+      },
+      {
+        "step": 5,
+        "text": "Flip, add glaze, and spoon over salmon for 2-3 minutes until done"
+      }
+    ],
+    "Assembly": [
+      {
+        "step": 1,
+        "text": "Serve salmon over rice"
+      },
+      {
+        "step": 2,
+        "text": "Top with crispy pork belly"
+      },
+      {
+        "step": 3,
+        "text": "Spoon extra glaze over dish"
+      },
+      {
+        "step": 4,
+        "text": "Optional: garnish with sesame seeds"
+      }
+    ]
+  },
+  "notes": [
+    "Don't move the salmon while it's searing to ensure proper caramelization",
+    "The glaze can burn due to honey content - watch heat carefully", 
+    "Salmon is done when it flakes easily with a fork but still maintains a slightly translucent center"
+  ],
+  "storage": [
+    "Best served fresh",
+    "Leftovers can be stored in an airtight container in the refrigerator for up to 2 days",
+    "Reheat gently to avoid overcooking the salmon"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "title": "Hungarian Goulash (Beef and Paprika Stew)",
+  "description": "A hearty Hungarian beef stew featuring tender chunks of beef and vegetables in a rich paprika-spiced broth. This warming dish sits between a soup and stew in consistency and is perfect served with crusty bread for dunking.",
+  "servings": {
+    "amount": 6
+  },
+  "times": {
+    "prep": "30 minutes",
+    "cook": "2.5 hours",
+    "total": "3 hours"
+  },
+  "ingredients": {
+    "For the Beef": [
+      {
+        "item": "beef chuck",
+        "amount": 2,
+        "unit": "pounds",
+        "notes": "cut into 1.5-inch cubes"
+      },
+      {
+        "item": "vegetable oil",
+        "amount": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "butter",
+        "amount": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "salt",
+        "unit": "to taste"
+      },
+      {
+        "item": "pepper",
+        "unit": "to taste"
+      },
+      {
+        "item": "flour",
+        "amount": 2,
+        "unit": "tablespoons"
+      }
+    ],
+    "For the Stew Base": [
+      {
+        "item": "onions",
+        "amount": 2,
+        "unit": "large",
+        "notes": "diced"
+      },
+      {
+        "item": "garlic",
+        "amount": 5,
+        "unit": "cloves",
+        "notes": "minced"
+      },
+      {
+        "item": "red bell peppers",
+        "amount": 2,
+        "unit": "whole",
+        "notes": "cut into 1-inch pieces"
+      },
+      {
+        "item": "tomatoes",
+        "amount": 2,
+        "unit": "whole",
+        "notes": "cut into wedges"
+      },
+      {
+        "item": "Hungarian sweet paprika",
+        "amount": 0.25,
+        "unit": "cup"
+      },
+      {
+        "item": "caraway seeds",
+        "amount": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "item": "bay leaves",
+        "amount": 2,
+        "unit": "whole"
+      },
+      {
+        "item": "beef stock",
+        "amount": 4,
+        "unit": "cups",
+        "notes": "low sodium"
+      },
+      {
+        "item": "soy sauce",
+        "amount": 1,
+        "unit": "tablespoon",
+        "notes": "umami boost"
+      }
+    ],
+    "Vegetables": [
+      {
+        "item": "carrots",
+        "amount": 2,
+        "unit": "large",
+        "notes": "cut into chunks"
+      },
+      {
+        "item": "potatoes",
+        "amount": 2,
+        "unit": "medium",
+        "notes": "cut into 1-inch cubes"
+      }
+    ],
+    "For Serving": [
+      {
+        "item": "parsley",
+        "unit": "to taste",
+        "notes": "fresh, chopped"
+      },
+      {
+        "item": "crusty bread",
+        "unit": "to serve"
+      },
+      {
+        "item": "sour cream",
+        "unit": "to serve",
+        "notes": "optional"
+      }
+    ]
+  },
+  "instructions": {
+    "Initial Preparation": [
+      {
+        "step": 1,
+        "text": "Season beef generously with salt and pepper"
+      },
+      {
+        "step": 2,
+        "text": "Toss beef cubes in flour until evenly coated"
+      },
+      {
+        "step": 3,
+        "text": "Heat oil and butter in a large Dutch oven over medium-high heat"
+      }
+    ],
+    "Cooking Process": [
+      {
+        "step": 1,
+        "text": "Brown beef in batches until well-seared",
+        "notes": "3-4 minutes per side"
+      },
+      {
+        "step": 2,
+        "text": "Remove beef and set aside"
+      },
+      {
+        "step": 3,
+        "text": "Add onions to pot, cook until softened",
+        "notes": "6-8 minutes"
+      },
+      {
+        "step": 4,
+        "text": "Add garlic and peppers, cook for 5 minutes"
+      },
+      {
+        "step": 5,
+        "text": "Stir in paprika and caraway seeds, cook for 30 seconds"
+      },
+      {
+        "step": 6,
+        "text": "Return beef to pot"
+      },
+      {
+        "step": 7,
+        "text": "Add tomatoes, bay leaves, stock, and soy sauce"
+      },
+      {
+        "step": 8,
+        "text": "Bring to a simmer, cover partially"
+      }
+    ],
+    "Slow Cooking": [
+      {
+        "step": 1,
+        "text": "Transfer to a 300°F (150°C) oven"
+      },
+      {
+        "step": 2,
+        "text": "Cook for 1.5 hours"
+      },
+      {
+        "step": 3,
+        "text": "Add carrots and potatoes"
+      },
+      {
+        "step": 4,
+        "text": "Cook an additional 30-45 minutes until vegetables are tender"
+      }
+    ],
+    "Finishing": [
+      {
+        "step": 1,
+        "text": "Remove bay leaves"
+      },
+      {
+        "step": 2,
+        "text": "Adjust seasoning with salt and pepper"
+      },
+      {
+        "step": 3,
+        "text": "Add a splash of vinegar if needed for brightness"
+      },
+      {
+        "step": 4,
+        "text": "Garnish with parsley"
+      }
+    ]
+  },
+  "notes": [
+    "Use high-quality Hungarian paprika for best results",
+    "Sauce should be brothy, not thick like typical stews",
+    "Can be made ahead - flavors improve overnight",
+    "Add hot water if too thick when reheating"
+  ],
+  "storage": [
+    "Keeps in refrigerator up to 4 days",
+    "Can be frozen up to 3 months",
+    "Reheat gently on stovetop, adding water if needed"
+  ]
+}

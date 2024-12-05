@@ -1,0 +1,259 @@
+{
+  "title": "Steak Dinner for Two with Mashed Potatoes & Mushrooms",
+  "description": "A classic steak dinner featuring perfectly cooked steaks, creamy mashed potatoes, and golden-brown sautéed mushrooms. The key is timing each component to come together hot and ready at the same time.",
+  "servings": {
+    "amount": 2
+  },
+  "times": {
+    "prep": "45 minutes",
+    "cook": "30 minutes",
+    "total": "75 minutes",
+    "notes": "including steak room temp time"
+  },
+  "ingredients": {
+    "For the Steaks": [
+      {
+        "item": "ribeye or NY strip steaks",
+        "amount": 2,
+        "unit": "steaks",
+        "notes": "12-16oz each, 1-inch thick"
+      },
+      {
+        "item": "kosher salt",
+        "unit": "to taste",
+        "notes": "coarse"
+      },
+      {
+        "item": "black pepper",
+        "unit": "to taste",
+        "notes": "freshly ground"
+      },
+      {
+        "item": "neutral oil",
+        "amount": 3,
+        "unit": "tablespoons",
+        "notes": "vegetable or grapeseed"
+      },
+      {
+        "item": "butter",
+        "amount": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "fresh thyme",
+        "amount": 3,
+        "unit": "sprigs",
+        "notes": "optional"
+      },
+      {
+        "item": "garlic",
+        "amount": 3,
+        "unit": "cloves",
+        "notes": "optional"
+      }
+    ],
+    "For the Mashed Potatoes": [
+      {
+        "item": "Yukon Gold potatoes",
+        "amount": 4,
+        "unit": "medium",
+        "notes": "or red potatoes"
+      },
+      {
+        "item": "butter",
+        "amount": 4,
+        "unit": "tablespoons",
+        "notes": "1/2 stick"
+      },
+      {
+        "item": "whole milk or heavy cream",
+        "amount": 0.5,
+        "unit": "cup",
+        "notes": "up to 1/2 cup"
+      },
+      {
+        "item": "salt",
+        "unit": "to taste"
+      },
+      {
+        "item": "black pepper",
+        "unit": "to taste"
+      },
+      {
+        "item": "sour cream",
+        "amount": 2,
+        "unit": "tablespoons",
+        "notes": "optional"
+      }
+    ],
+    "For the Mushrooms": [
+      {
+        "item": "baby bella mushrooms",
+        "amount": 8,
+        "unit": "oz",
+        "notes": "sliced"
+      },
+      {
+        "item": "butter",
+        "amount": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "garlic",
+        "amount": 2,
+        "unit": "cloves",
+        "notes": "minced"
+      },
+      {
+        "item": "fresh thyme",
+        "unit": "to taste",
+        "notes": "optional"
+      },
+      {
+        "item": "salt",
+        "unit": "to taste"
+      },
+      {
+        "item": "pepper",
+        "unit": "to taste"
+      }
+    ]
+  },
+  "instructions": {
+    "Preparation": [
+      {
+        "step": 1,
+        "text": "Remove steaks from refrigerator 30 minutes before cooking"
+      },
+      {
+        "step": 2,
+        "text": "Pat steaks very dry with paper towels"
+      },
+      {
+        "step": 3,
+        "text": "Season generously with salt and pepper"
+      },
+      {
+        "step": 4,
+        "text": "Peel and cut potatoes into 1-inch chunks"
+      }
+    ],
+    "Mashed Potatoes": [
+      {
+        "step": 1,
+        "text": "Place potatoes in cold water, bring to boil"
+      },
+      {
+        "step": 2,
+        "text": "Add salt to water"
+      },
+      {
+        "step": 3,
+        "text": "Simmer 15-20 minutes until fork-tender"
+      },
+      {
+        "step": 4,
+        "text": "Drain well and return to hot pot"
+      },
+      {
+        "step": 5,
+        "text": "Heat milk/cream and butter separately until warm"
+      },
+      {
+        "step": 6,
+        "text": "Rice or mash potatoes while hot"
+      },
+      {
+        "step": 7,
+        "text": "Gradually add warm milk/butter mixture"
+      },
+      {
+        "step": 8,
+        "text": "Season with salt and pepper"
+      },
+      {
+        "step": 9,
+        "text": "Keep warm with lid on"
+      }
+    ],
+    "Steaks": [
+      {
+        "step": 1,
+        "text": "Heat heavy pan until very hot"
+      },
+      {
+        "step": 2,
+        "text": "Add oil, wait until almost smoking"
+      },
+      {
+        "step": 3,
+        "text": "Place steaks in pan"
+      },
+      {
+        "step": 4,
+        "text": "Cook first side 4-5 minutes"
+      },
+      {
+        "step": 5,
+        "text": "Flip once"
+      },
+      {
+        "step": 6,
+        "text": "Cook second side 3-4 minutes"
+      },
+      {
+        "step": 7,
+        "text": "Add butter, garlic, thyme for last 2 minutes"
+      },
+      {
+        "step": 8,
+        "text": "Baste with melted butter"
+      },
+      {
+        "step": 9,
+        "text": "Remove to plate and tent with foil"
+      },
+      {
+        "step": 10,
+        "text": "Rest 5-10 minutes before slicing"
+      }
+    ],
+    "Mushrooms": [
+      {
+        "step": 1,
+        "text": "Use steak pan after removing steaks"
+      },
+      {
+        "step": 2,
+        "text": "Add butter until foamy"
+      },
+      {
+        "step": 3,
+        "text": "Add mushrooms, don't crowd"
+      },
+      {
+        "step": 4,
+        "text": "Cook without stirring until golden",
+        "notes": "5-7 minutes"
+      },
+      {
+        "step": 5,
+        "text": "Add garlic and thyme at end"
+      },
+      {
+        "step": 6,
+        "text": "Season with salt and pepper"
+      }
+    ]
+  },
+  "notes": [
+    "Don't skip steak resting time",
+    "Let water fully evaporate from mushrooms for best results",
+    "If using red potatoes, cook slightly longer and add more butter/cream"
+  ],
+  "storage": [
+    "Best served fresh",
+    "Leftover potatoes can be stored 3-4 days refrigerated",
+    "Reheat potatoes with extra butter/cream"
+  ]
+}
