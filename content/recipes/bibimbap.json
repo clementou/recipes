@@ -1,0 +1,179 @@
+{
+  "title": "Korean Bibimbap with Beef and Bean Sprouts",
+  "description": "A simplified Korean rice bowl with seasoned ground beef and crisp bean sprouts. Serve gochujang on the side for adjustable spice.",
+  "servings": {
+    "amount": 4,
+    "notes": "generous portions"
+  },
+  "times": {
+    "prep": "20 minutes",
+    "cook": "30 minutes",
+    "total": "50 minutes"
+  },
+  "ingredients": {
+    "For the Rice": [
+      {
+        "item": "short-grain white rice",
+        "amount": 2,
+        "unit": "cups",
+        "notes": "rinsed"
+      },
+      {
+        "item": "water",
+        "notes": "according to package directions"
+      }
+    ],
+    "For the Beef": [
+      {
+        "item": "ground beef",
+        "amount": 1,
+        "unit": "lb",
+        "notes": "85/15 or 90/10 recommended"
+      },
+      {
+        "item": "soy sauce",
+        "amount": 2,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "sesame oil",
+        "amount": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "item": "garlic",
+        "amount": 1,
+        "unit": "tablespoon",
+        "notes": "minced"
+      },
+      {
+        "item": "sugar or honey",
+        "amount": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "item": "black pepper",
+        "unit": "pinch"
+      }
+    ],
+    "For the Bean Sprouts": [
+      {
+        "item": "bean sprouts",
+        "amount": 8,
+        "unit": "oz",
+        "notes": "mung bean preferred"
+      },
+      {
+        "item": "soy sauce",
+        "amount": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "item": "sesame oil",
+        "amount": 1,
+        "unit": "teaspoon"
+      },
+      {
+        "item": "garlic",
+        "amount": 0.5,
+        "unit": "teaspoon",
+        "notes": "minced (optional)"
+      },
+      {
+        "item": "salt",
+        "unit": "pinch"
+      }
+    ],
+    "For Serving": [
+      {
+        "item": "large eggs",
+        "amount": 4,
+        "unit": "whole"
+      },
+      {
+        "item": "toasted sesame seeds",
+        "unit": "to taste"
+      },
+      {
+        "item": "gochujang",
+        "unit": "to serve",
+        "notes": "Korean chili paste, on the side"
+      },
+      {
+        "item": "sesame oil",
+        "unit": "to serve",
+        "notes": "extra, optional"
+      }
+    ]
+  },
+  "instructions": {
+    "Cook Rice": [
+      {
+        "step": 1,
+        "text": "Prepare the white rice according to package directions. Keep warm."
+      }
+    ],
+    "Marinate & Cook Beef": [
+      {
+        "step": 1,
+        "text": "Combine ground beef, 2 tbsp soy sauce, 1 tbsp sesame oil, 1 tbsp minced garlic, sugar/honey, and pepper. Mix well."
+      },
+      {
+        "step": 2,
+        "text": "Heat a tablespoon of oil in a large skillet over medium-high heat."
+      },
+      {
+        "step": 3,
+        "text": "Add marinated beef, break it up, cook until browned. Set aside."
+      }
+    ],
+    "Prepare Bean Sprouts": [
+      {
+        "step": 1,
+        "text": "Blanch bean sprouts in boiling water for 1-2 minutes until slightly tender but still crisp. Drain well."
+      },
+      {
+        "step": 2,
+        "text": "Toss with 1 tsp soy sauce, 1 tsp sesame oil, 1/2 tsp minced garlic (optional), and a pinch of salt."
+      }
+    ],
+    "Fry Eggs": [
+      {
+        "step": 1,
+        "text": "In a lightly oiled non-stick pan, fry eggs sunny-side up or over easy, leaving yolks runny."
+      }
+    ],
+    "Assemble Bowls": [
+      {
+        "step": 1,
+        "text": "Divide warm rice among 4 bowls."
+      },
+      {
+        "step": 2,
+        "text": "Arrange portions of cooked beef and bean sprouts over the rice."
+      },
+      {
+        "step": 3,
+        "text": "Top each bowl with a fried egg."
+      },
+      {
+        "step": 4,
+        "text": "Sprinkle with toasted sesame seeds."
+      }
+    ],
+    "Serve": [
+      {
+        "step": 1,
+        "text": "Serve immediately. Provide gochujang and extra sesame oil on the side."
+      }
+    ]
+  },
+  "notes": [
+    "Mix everything together in the bowl before eating.",
+    "Adjust gochujang amount to your spice preference."
+  ],
+  "storage": [
+    "Store components separately in airtight containers in the fridge for 1-2 days.",
+    "Reheat gently (microwave or pan) and fry a fresh egg before serving."
+  ]
+} 

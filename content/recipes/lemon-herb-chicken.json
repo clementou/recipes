@@ -1,0 +1,173 @@
+{
+  "title": "Sheet Pan Lemon Herb Chicken and Roasted Vegetables",
+  "description": "Easy cleanup, hearty flavors with bone-in, skin-on chicken, broccoli, and bell peppers.",
+  "servings": {
+    "amount": 4,
+    "notes": "generous portions"
+  },
+  "times": {
+    "prep": "20 minutes",
+    "cook": "40-50 minutes",
+    "total": "60-70 minutes"
+  },
+  "ingredients": {
+    "For the Chicken": [
+      {
+        "item": "bone-in, skin-on chicken thighs and/or drumsticks",
+        "amount": 3,
+        "unit": "lbs",
+        "notes": "about 4-6 pieces total"
+      },
+      {
+        "item": "olive oil",
+        "amount": 1,
+        "unit": "tablespoon"
+      },
+      {
+        "item": "lemon",
+        "amount": 0.5,
+        "unit": "whole",
+        "notes": "juice of"
+      },
+      {
+        "item": "dried herb blend",
+        "amount": 0.5,
+        "unit": "tablespoon",
+        "notes": "Italian seasoning, herbs de Provence, etc."
+      },
+      {
+        "item": "salt",
+        "unit": "to taste"
+      },
+      {
+        "item": "black pepper",
+        "unit": "to taste",
+        "notes": "freshly ground"
+      }
+    ],
+    "For the Vegetables": [
+      {
+        "item": "broccoli florets",
+        "amount": 1,
+        "unit": "lb"
+      },
+      {
+        "item": "bell peppers",
+        "amount": 2,
+        "unit": "whole",
+        "notes": "any color, cut into 1-inch chunks"
+      },
+      {
+        "item": "garlic",
+        "amount": 5,
+        "unit": "cloves",
+        "notes": "smashed or roughly chopped"
+      },
+      {
+        "item": "olive oil",
+        "amount": 3,
+        "unit": "tablespoons"
+      },
+      {
+        "item": "dried herb blend",
+        "amount": 0.5,
+        "unit": "tablespoon"
+      },
+      {
+        "item": "paprika",
+        "amount": 1,
+        "unit": "teaspoon",
+        "notes": "optional, for color"
+      },
+      {
+        "item": "salt",
+        "unit": "to taste"
+      },
+      {
+        "item": "black pepper",
+        "unit": "to taste"
+      }
+    ],
+    "For Serving": [
+      {
+        "item": "lemon",
+        "amount": 0.5,
+        "unit": "whole",
+        "notes": "cut into wedges"
+      },
+      {
+        "item": "fresh parsley",
+        "unit": "to taste",
+        "notes": "chopped, optional garnish"
+      }
+    ]
+  },
+  "instructions": {
+    "Preparation": [
+      {
+        "step": 1,
+        "text": "Preheat oven to 400°F (200°C). Line a large, rimmed baking sheet."
+      }
+    ],
+    "Prep Vegetables": [
+      {
+        "step": 1,
+        "text": "In a large bowl, toss broccoli, bell peppers, and garlic with 3 tbsp olive oil, half the dried herbs, paprika (if using), salt, and pepper."
+      },
+      {
+        "step": 2,
+        "text": "Spread vegetables in a single layer on the baking sheet, leaving space for chicken."
+      }
+    ],
+    "Prep Chicken": [
+      {
+        "step": 1,
+        "text": "Pat chicken pieces thoroughly dry."
+      },
+      {
+        "step": 2,
+        "text": "Place chicken in the same bowl. Drizzle with 1 tbsp olive oil, juice of half lemon, remaining herbs, salt, and pepper. Toss to coat."
+      }
+    ],
+    "Arrange and Roast": [
+      {
+        "step": 1,
+        "text": "Nestle chicken pieces among vegetables on baking sheet, skin-side up."
+      },
+      {
+        "step": 2,
+        "text": "Place lemon wedges around the pan."
+      },
+      {
+        "step": 3,
+        "text": "Roast for 40-50 minutes, until chicken is cooked through (165°F/74°C), skin is crispy, and vegetables are tender."
+      },
+      {
+        "step": 4,
+        "text": "Can toss vegetables halfway through. Tent with foil if browning too quickly."
+      }
+    ],
+    "Rest & Serve": [
+      {
+        "step": 1,
+        "text": "Let chicken rest for 5-10 minutes before serving."
+      },
+      {
+        "step": 2,
+        "text": "Garnish with fresh parsley, if desired."
+      },
+      {
+        "step": 3,
+        "text": "Serve chicken and vegetables, squeezing roasted lemon wedges over top."
+      }
+    ]
+  },
+  "notes": [
+    "Patting chicken dry helps skin crisp.",
+    "Ensure pan is not overcrowded; use two if needed."
+  ],
+  "storage": [
+    "Store leftovers in an airtight container in the fridge for up to 3 days.",
+    "Reheat in the oven or air fryer to maintain crispness."
+  ]
+} 
